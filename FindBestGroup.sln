@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBestGroup", "FindBestGroup\FindBestGroup.csproj", "{88414AEE-C029-4D6C-82F4-DD9B55B99A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88414AEE-C029-4D6C-82F4-DD9B55B99A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88414AEE-C029-4D6C-82F4-DD9B55B99A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88414AEE-C029-4D6C-82F4-DD9B55B99A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88414AEE-C029-4D6C-82F4-DD9B55B99A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9DE9FB9-ADB7-4CB0-AEE0-92B3FF9531A7}
+	EndGlobalSection
+EndGlobal
